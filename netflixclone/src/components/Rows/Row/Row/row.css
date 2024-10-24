@@ -6,7 +6,7 @@
     margin-right: 10px;
 }
 
-.row_poster {
+.row_poster{
     display: flex;
     overflow-y: hidden;
     overflow-x: scroll;
@@ -28,6 +28,7 @@
 }
 
 .row{
+    /* display: flex; */
     margin-left:20px;
     color: white;
 }
